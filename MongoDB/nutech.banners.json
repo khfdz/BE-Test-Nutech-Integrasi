@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "675563454be81e99c7742e8d"
+  },
+  "banner_name": "Banner 1",
+  "banner_image": "https://nutech-integrasi.app/dummy.jpg",
+  "description": "Lorem Ipsum Dolor sit amet",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-12-08T09:13:41.599Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-08T09:13:41.599Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675563454be81e99c7742e8e"
+  },
+  "banner_name": "Banner 2",
+  "banner_image": "https://nutech-integrasi.app/dummy.jpg",
+  "description": "Lorem Ipsum Dolor sit amet",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-12-08T09:13:41.600Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-08T09:13:41.600Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675563454be81e99c7742e8f"
+  },
+  "banner_name": "Banner 3",
+  "banner_image": "https://nutech-integrasi.app/dummy.jpg",
+  "description": "Lorem Ipsum Dolor sit amet",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-12-08T09:13:41.600Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-08T09:13:41.600Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675563454be81e99c7742e90"
+  },
+  "banner_name": "Banner 4",
+  "banner_image": "https://nutech-integrasi.app/dummy.jpg",
+  "description": "Lorem Ipsum Dolor sit amet",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-12-08T09:13:41.600Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-08T09:13:41.600Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675563454be81e99c7742e91"
+  },
+  "banner_name": "Banner 5",
+  "banner_image": "https://nutech-integrasi.app/dummy.jpg",
+  "description": "Lorem Ipsum Dolor sit amet",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-12-08T09:13:41.600Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-08T09:13:41.600Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "675563454be81e99c7742e92"
+  },
+  "banner_name": "Banner 6",
+  "banner_image": "https://nutech-integrasi.app/dummy.jpg",
+  "description": "Lorem Ipsum Dolor sit amet",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-12-08T09:13:41.600Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-08T09:13:41.600Z"
+  }
+}]

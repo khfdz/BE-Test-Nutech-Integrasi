@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "67552f5918cb7470bdd5b885"
+  },
+  "email": "khfdz@gmail.com",
+  "first_name": "Silvya",
+  "last_name": "Budiharti",
+  "password": "$2a$10$vJ26DlRYFaVbPe/KYnfhr.cF2392W.4Uq7DVK7uYFID0Cp3cwvqJS",
+  "createdAt": {
+    "$date": "2024-12-08T05:32:09.257Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-08T11:36:02.666Z"
+  },
+  "__v": 0,
+  "profile_image": "https://yoururlapi.com/1733647143215-938109672.jpg",
+  "balance": 710000
+},
+{
+  "_id": {
+    "$oid": "675599f07b050e2ce9e8bb4a"
+  },
+  "email": "dhika@gmail.com",
+  "first_name": "Dhika Edited",
+  "last_name": "Hafidz Edited",
+  "password": "$2a$10$HXxxqjyNl1J8erI21l5j4OjREctVra/vZGah0zEQnywyRSqa.xWYW",
+  "balance": 200000,
+  "createdAt": {
+    "$date": "2024-12-08T13:06:56.726Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-08T13:14:23.289Z"
+  },
+  "__v": 0,
+  "profile_image": "https://yoururlapi.com/1733663435165-30751486.jpg"
+}]

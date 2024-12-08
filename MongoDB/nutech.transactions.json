@@ -1,0 +1,442 @@
+[{
+  "_id": {
+    "$oid": "67557440cb83d7eade3cdf74"
+  },
+  "user_email": "khfdz@gmail.com",
+  "transaction_type": "TOPUP",
+  "amount": 1000000,
+  "description": "Top-Up Balance",
+  "created_at": {
+    "$date": "2024-12-08T10:26:08.485Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6755747ce72dc963cb46c637"
+  },
+  "user_email": "khfdz@gmail.com",
+  "transaction_type": "TOPUP",
+  "amount": 10,
+  "description": "Top-Up Balance",
+  "created_at": {
+    "$date": "2024-12-08T10:27:08.013Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67557484e72dc963cb46c63b"
+  },
+  "user_email": "khfdz@gmail.com",
+  "transaction_type": "TOPUP",
+  "amount": 10000,
+  "description": "Top-Up Balance",
+  "created_at": {
+    "$date": "2024-12-08T10:27:16.849Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67557486e72dc963cb46c63f"
+  },
+  "user_email": "khfdz@gmail.com",
+  "transaction_type": "TOPUP",
+  "amount": 10000,
+  "description": "Top-Up Balance",
+  "created_at": {
+    "$date": "2024-12-08T10:27:18.662Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67557487e72dc963cb46c643"
+  },
+  "user_email": "khfdz@gmail.com",
+  "transaction_type": "TOPUP",
+  "amount": 10000,
+  "description": "Top-Up Balance",
+  "created_at": {
+    "$date": "2024-12-08T10:27:19.252Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67557495e72dc963cb46c647"
+  },
+  "user_email": "khfdz@gmail.com",
+  "transaction_type": "TOPUP",
+  "amount": 10000,
+  "description": "Top-Up Balance",
+  "created_at": {
+    "$date": "2024-12-08T10:27:33.458Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675574c1b4e9af604d8fb07e"
+  },
+  "user_email": "khfdz@gmail.com",
+  "transaction_type": "TOPUP",
+  "amount": 10000,
+  "description": "Top-Up Balance",
+  "created_at": {
+    "$date": "2024-12-08T10:28:17.826Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675574c4b4e9af604d8fb082"
+  },
+  "user_email": "khfdz@gmail.com",
+  "transaction_type": "TOPUP",
+  "amount": 10000,
+  "description": "Top-Up Balance",
+  "created_at": {
+    "$date": "2024-12-08T10:28:20.304Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675574c4b4e9af604d8fb086"
+  },
+  "user_email": "khfdz@gmail.com",
+  "transaction_type": "TOPUP",
+  "amount": 10000,
+  "description": "Top-Up Balance",
+  "created_at": {
+    "$date": "2024-12-08T10:28:20.869Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675574c5b4e9af604d8fb08a"
+  },
+  "user_email": "khfdz@gmail.com",
+  "transaction_type": "TOPUP",
+  "amount": 10000,
+  "description": "Top-Up Balance",
+  "created_at": {
+    "$date": "2024-12-08T10:28:21.453Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675574ccb4e9af604d8fb08e"
+  },
+  "user_email": "khfdz@gmail.com",
+  "transaction_type": "TOPUP",
+  "amount": 10000,
+  "description": "Top-Up Balance",
+  "created_at": {
+    "$date": "2024-12-08T10:28:28.599Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675574d0b4e9af604d8fb093"
+  },
+  "user_email": "khfdz@gmail.com",
+  "transaction_type": "TOPUP",
+  "amount": 10000,
+  "description": "Top-Up Balance",
+  "created_at": {
+    "$date": "2024-12-08T10:28:32.214Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675574ddb4e9af604d8fb097"
+  },
+  "user_email": "khfdz@gmail.com",
+  "transaction_type": "TOPUP",
+  "amount": 10000,
+  "description": "Top-Up Balance",
+  "created_at": {
+    "$date": "2024-12-08T10:28:45.251Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675577530d1f6f5228462610"
+  },
+  "user_email": "khfdz@gmail.com",
+  "transaction_type": "PAYMENT",
+  "amount": 40000,
+  "description": "Pulsa transaction",
+  "created_at": {
+    "$date": "2024-12-08T10:39:15.893Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675577560d1f6f5228462615"
+  },
+  "user_email": "khfdz@gmail.com",
+  "transaction_type": "PAYMENT",
+  "amount": 40000,
+  "description": "Pulsa transaction",
+  "created_at": {
+    "$date": "2024-12-08T10:39:18.133Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6755779d65731725aa390b04"
+  },
+  "user_email": "khfdz@gmail.com",
+  "transaction_type": "PAYMENT",
+  "amount": 40000,
+  "description": "Pulsa transaction",
+  "created_at": {
+    "$date": "2024-12-08T10:40:29.540Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675577ad65731725aa390b09"
+  },
+  "user_email": "khfdz@gmail.com",
+  "transaction_type": "PAYMENT",
+  "amount": 10000,
+  "description": "Listrik transaction",
+  "created_at": {
+    "$date": "2024-12-08T10:40:45.839Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6755784565731725aa390b14"
+  },
+  "user_email": "khfdz@gmail.com",
+  "transaction_type": "PAYMENT",
+  "amount": 300000,
+  "description": "Zakat transaction",
+  "created_at": {
+    "$date": "2024-12-08T10:43:17.388Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67557b1a1c801aa8424c2f60"
+  },
+  "user_email": "khfdz@gmail.com",
+  "transaction_type": "TOPUP",
+  "amount": 10000,
+  "description": "Top-Up Balance",
+  "created_at": {
+    "$date": "2024-12-08T10:55:22.983Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67557b1b1c801aa8424c2f64"
+  },
+  "user_email": "khfdz@gmail.com",
+  "transaction_type": "TOPUP",
+  "amount": 10000,
+  "description": "Top-Up Balance",
+  "created_at": {
+    "$date": "2024-12-08T10:55:23.990Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67557b1f1c801aa8424c2f68"
+  },
+  "user_email": "khfdz@gmail.com",
+  "transaction_type": "TOPUP",
+  "amount": 100000,
+  "description": "Top-Up Balance",
+  "created_at": {
+    "$date": "2024-12-08T10:55:27.495Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67557e1afacf040a6319997b"
+  },
+  "user_email": "khfdz@gmail.com",
+  "transaction_type": "TOPUP",
+  "amount": 2,
+  "description": "Top-Up Balance",
+  "created_at": {
+    "$date": "2024-12-08T11:08:10.992Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67557e23facf040a6319997f"
+  },
+  "user_email": "khfdz@gmail.com",
+  "transaction_type": "TOPUP",
+  "amount": 1,
+  "description": "Top-Up Balance",
+  "created_at": {
+    "$date": "2024-12-08T11:08:19.412Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67557e2cfacf040a63199983"
+  },
+  "user_email": "khfdz@gmail.com",
+  "transaction_type": "TOPUP",
+  "amount": 100000,
+  "description": "Top-Up Balance",
+  "created_at": {
+    "$date": "2024-12-08T11:08:28.248Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67557e48facf040a63199987"
+  },
+  "user_email": "khfdz@gmail.com",
+  "transaction_type": "TOPUP",
+  "amount": 100000,
+  "description": "Top-Up Balance",
+  "created_at": {
+    "$date": "2024-12-08T11:08:56.809Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67557f6172299a88f5aa8a03"
+  },
+  "user_email": "khfdz@gmail.com",
+  "transaction_type": "PAYMENT",
+  "amount": 40000,
+  "description": "Pulsa transaction",
+  "created_at": {
+    "$date": "2024-12-08T11:13:37.221Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67558106f5bdc9064beabaac"
+  },
+  "user_email": "khfdz@gmail.com",
+  "transaction_type": "TOPUP",
+  "amount": 250000,
+  "description": "Top-Up Balance",
+  "created_at": {
+    "$date": "2024-12-08T11:20:38.454Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6755810cf5bdc9064beabab2"
+  },
+  "user_email": "khfdz@gmail.com",
+  "transaction_type": "TOPUP",
+  "amount": 250000,
+  "description": "Top-Up Balance",
+  "created_at": {
+    "$date": "2024-12-08T11:20:44.614Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6755810ef5bdc9064beabab7"
+  },
+  "user_email": "khfdz@gmail.com",
+  "transaction_type": "PAYMENT",
+  "amount": 300000,
+  "description": "Zakat transaction",
+  "created_at": {
+    "$date": "2024-12-08T11:20:46.499Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675584a29a449ea1b31eda7d"
+  },
+  "user_email": "khfdz@gmail.com",
+  "transaction_type": "TOPUP",
+  "amount": 250000,
+  "description": "Top-Up Balance",
+  "created_at": {
+    "$date": "2024-12-08T11:36:02.192Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675584a29a449ea1b31eda81"
+  },
+  "user_email": "khfdz@gmail.com",
+  "transaction_type": "TOPUP",
+  "amount": 250000,
+  "description": "Top-Up Balance",
+  "created_at": {
+    "$date": "2024-12-08T11:36:02.667Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67559b907b050e2ce9e8bb65"
+  },
+  "user_email": "dhika@gmail.com",
+  "transaction_type": "TOPUP",
+  "amount": 250000,
+  "description": "Top-Up Balance",
+  "created_at": {
+    "$date": "2024-12-08T13:13:52.432Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67559b9e7b050e2ce9e8bb6a"
+  },
+  "user_email": "dhika@gmail.com",
+  "transaction_type": "TOPUP",
+  "amount": 250000,
+  "description": "Top-Up Balance",
+  "created_at": {
+    "$date": "2024-12-08T13:14:06.019Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67559baf7b050e2ce9e8bb6f"
+  },
+  "user_email": "dhika@gmail.com",
+  "transaction_type": "PAYMENT",
+  "amount": 300000,
+  "description": "Zakat transaction",
+  "created_at": {
+    "$date": "2024-12-08T13:14:23.290Z"
+  },
+  "__v": 0
+}]
